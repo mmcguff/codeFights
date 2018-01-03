@@ -11,33 +11,32 @@ namespace hackerRank
 
         static void Main(string[] args)
         {
-            int[] test1 = { 2, 3, 3, 1, 5, 2 };
-            int ans = firstDuplicate(test1);
-            Console.WriteLine("The duplicate is " + ans + ".");
+            
+            int[] test1 = {2, 3, 3, 1, 5, 2};
+            int[] test2 = {2, 4, 3, 5, 1};
+            int[] test3 = {8, 4, 6, 2, 6, 4, 7, 9, 5, 8};
+            int ans1 = firstDuplicate(test1);
+            int ans2 = firstDuplicate(test2);
+            int ans3 = firstDuplicate(test3);
+            Console.WriteLine(ans1);
+            Console.WriteLine(ans2);
+            Console.WriteLine(ans3);
 
             Console.ReadKey();
         }
 
         static int firstDuplicate(int[] a)
         {
-            Object obj = new Object();
 
-            for (int i = 0; i < a.Length; i++ )
+            Dictionary<int, int> x = new Dictionary<int, int>();
+            foreach (int i in a)
             {
-                if(obj.Equals(a[i]))
-                {
-                    return a[i];
-                }
+                if (x.ContainsKey(i))
+                    return i;
                 else
-                {
-                    obj = a[i]; 
-                }
+                    x.Add(i, i);
             }
-
-
-                return -1;
-
-        
+            return -1;
         }
     }
 }
