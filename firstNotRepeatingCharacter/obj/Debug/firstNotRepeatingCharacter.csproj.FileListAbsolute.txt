@@ -1,0 +1,6 @@
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\firstNotRepeatingCharacter\bin\Debug\firstNotRepeatingCharacter.exe.config
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\firstNotRepeatingCharacter\bin\Debug\firstNotRepeatingCharacter.exe
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\firstNotRepeatingCharacter\bin\Debug\firstNotRepeatingCharacter.pdb
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\firstNotRepeatingCharacter\obj\Debug\firstNotRepeatingCharacter.exe
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\firstNotRepeatingCharacter\obj\Debug\firstNotRepeatingCharacter.pdb
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\firstNotRepeatingCharacter\obj\Debug\firstNotRepeatingCharacter.csprojResolveAssemblyReference.cache

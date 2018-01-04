@@ -1,0 +1,6 @@
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\hackerRank\bin\Debug\hackerRank.exe.config
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\hackerRank\bin\Debug\hackerRank.exe
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\hackerRank\bin\Debug\hackerRank.pdb
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\hackerRank\obj\Debug\firstDuplicate.csprojResolveAssemblyReference.cache
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\hackerRank\obj\Debug\hackerRank.exe
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\hackerRank\obj\Debug\hackerRank.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>e486e023-3ae7-499c-a256-96ae5ebef197</ProjectGuid>
+    <ProjectGuid>{AC5DD832-F9F7-498C-A7A8-0FF0E9E23F48}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>firstNotRepeatingCharacter</RootNamespace>
