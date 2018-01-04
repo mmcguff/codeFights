@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstDuplicate", "hackerRan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstNotRepeatingCharacter", "firstNotRepeatingCharacter\firstNotRepeatingCharacter.csproj", "{AC5DD832-F9F7-498C-A7A8-0FF0E9E23F48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotateImage", "rotateImage\rotateImage.csproj", "{6FFE8A35-8B83-48E0-BBB6-A610B2DDD1E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{AC5DD832-F9F7-498C-A7A8-0FF0E9E23F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC5DD832-F9F7-498C-A7A8-0FF0E9E23F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC5DD832-F9F7-498C-A7A8-0FF0E9E23F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFE8A35-8B83-48E0-BBB6-A610B2DDD1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFE8A35-8B83-48E0-BBB6-A610B2DDD1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFE8A35-8B83-48E0-BBB6-A610B2DDD1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFE8A35-8B83-48E0-BBB6-A610B2DDD1E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

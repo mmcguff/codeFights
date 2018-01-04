@@ -1,0 +1,5 @@
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\rotateImage\bin\Debug\rotateImage.exe.config
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\rotateImage\bin\Debug\rotateImage.exe
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\rotateImage\bin\Debug\rotateImage.pdb
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\rotateImage\obj\Debug\rotateImage.exe
+C:\Users\mmcguff\Documents\Visual Studio 2013\Projects\hackerRank\rotateImage\obj\Debug\rotateImage.pdb
