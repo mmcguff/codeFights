@@ -20,11 +20,12 @@ namespace firstNotRepeatingCharacter
             int count;
             foreach(char i in s)
             {
-               count = s.Count(f => f == i);
-               if(count == 1)
-               {
-                   return i;
-               }
+                count = (s.Length - s.Replace(i.ToString(), "").Length);
+                if(count == 1)
+                {
+                    return i;
+                }
+                s = s.Replace(i.ToString(), "");
             }
             return '_';
         }
